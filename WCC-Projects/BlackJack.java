@@ -13,6 +13,7 @@ public class BlackJack {
 
         public BlackJack() {
             // Initialize lists for the player and dealer's hand
+            // New comment to test for git
             playerHand = new ArrayList<Card>();
             dealerHand = new ArrayList<Card>();
 
